@@ -21,4 +21,4 @@ https://ktnff.tech/universal/telegram-web-app.js
 
 bunları yazdıktan sonra web.telegram.org'a gidin ve tüm oyunlarda test edin.
 
-MemeFi, tabswap, dotcoin, blum vb. tüm oyunları tarayıcınızda açabilirsiniz.
+MemeFi, womfare(wormslap) tabswap, dotcoin, blum vb. tüm oyunları tarayıcınızda açabilirsiniz.
