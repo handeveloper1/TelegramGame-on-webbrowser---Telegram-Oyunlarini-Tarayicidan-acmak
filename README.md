@@ -1,5 +1,5 @@
 # TelegramGame-On-Webbrowser
-All telegram game on webbrowser, tüm telegram oyunlarını webbrowser üzerinde açma
+MemeFi, wormfare slap, tapswap, dotcoin vb. tüm oyunları tarayıcınızda açabilirsiniz.
 
 İlk olarak kurmanız gereken eklenti :
 
@@ -21,4 +21,4 @@ https://ktnff.tech/universal/telegram-web-app.js
 
 bunları yazdıktan sonra web.telegram.org'a gidin ve tüm oyunlarda test edin.
 
-MemeFi, womfare(wormslap) tapswap, dotcoin vb. tüm oyunları tarayıcınızda açabilirsiniz.
+MemeFi, wormfare slap, tapswap, dotcoin vb. tüm oyunları tarayıcınızda açabilirsiniz.
